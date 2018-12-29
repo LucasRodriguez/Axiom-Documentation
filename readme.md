@@ -42,7 +42,7 @@ It can be assumed that if the feature you're looking for is not covered here its
    - [ ] Tron
    - [ ] IOTA
 9. [ ] Partners
-   - [ ] Play Key Toke
+   - [ ] Play Key Token
    - [ ] Receipt Chain Token
 
 ### How It Works
