@@ -4,7 +4,6 @@ It can be assumed that if the feature you're looking for is not covered here its
 >**NOTE:**
 > This repository reflects the state of the latest update and its only updated on each __NEW__ release. So don't expect to track inter-version progress here as we dont support it.
 ## Table of Contents
-## Table of Contents
 - [Type of Air Drops Supported](https://github.com/LucasRodriguez/Axiom-Documentation#Type-of-Air-Drops-Supported)
 - [Features Supported](https://github.com/LucasRodriguez/Axiom-Documentation#Features-Supported)
 - [How It Works](https://github.com/LucasRodriguez/Axiom-Documentation#How-It-Works)
