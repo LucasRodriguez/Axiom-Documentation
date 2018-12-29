@@ -101,12 +101,12 @@ Ethereum is currently the only fully supported chain.
 >  - Smart Contract for custody
 >  - Manual distribution through smart contract function for batching
 >- Support for Social media
->  - Twitter
->    - Like
->    - Retweet
->    - Follow
->  - Telegram
->  - Discord
+>   - Twitter
+>     - Like
+>     - Retweet
+>     - Follow
+>   - Telegram
+>   - Discord
 >- Web3 Integration
 >- Step by Step Tutorial
 >- Air Drop Card Preview
