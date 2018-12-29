@@ -7,6 +7,7 @@ It can be assumed that if the feature you're looking for is not covered here its
 ## Table of Contents
 - [Type of Air Drops Supported](https://github.com/LucasRodriguez/Axiom-Documentation#Type-of-Air-Drops-Supported)
 - [Features Supported](https://github.com/LucasRodriguez/Axiom-Documentation#Features-Supported)
+- [How It Works](https://github.com/LucasRodriguez/Axiom-Documentation#How-It-Works)
 - [Progress](https://github.com/LucasRodriguez/Axiom-Documentation#Versions-&-Features)
   - [Smart contract tracking saving and distribution](https://github.com/LucasRodriguez/Axiom-Documentation#Smart-contract-tracking-saving-and-distribution)
   - [Social media tracking](https://github.com/LucasRodriguez/Axiom-Documentation#Social-media-track)
@@ -15,7 +16,6 @@ It can be assumed that if the feature you're looking for is not covered here its
   - [Ranks & Hierarchy](https://github.com/LucasRodriguez/Axiom-Documentation#Ranks-&-Hierarchy)
   - [Token Economics](https://github.com/LucasRodriguez/Axiom-Documentation#Token-Economics)
   - [Network Support](https://github.com/LucasRodriguez/Axiom-Documentation#Network-Support)
-- [How It Works](https://github.com/LucasRodriguez/Axiom-Documentation#How-It-Works)
 - [Versions & Features](https://github.com/LucasRodriguez/Axiom-Documentation#Versions-&-Features)
 
 
