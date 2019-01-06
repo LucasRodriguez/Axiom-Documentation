@@ -1,23 +1,23 @@
 # Axioms Platform Documentation
 This repository serves as a reference point regarding the operation, functioning, limitations, and capabilities for the Axioms network.
-Only features active in the platform, or in active development planning, are listed here. Features being worked on in closed, staging areas are not listed. 
+Only features active in the platform, or in active development planning, are listed here. Features being worked on in closed, staging areas are not listed.
 
 >**NOTE:**
-> This repository reflects the state of the latest update and its only updated on each __NEW__ release. 
+> This repository reflects the state of the latest update and its only updated on each __NEW__ release.
 
 ## Table of Contents
 - [Type of Airdrops Supported](https://github.com/LucasRodriguez/Axiom-Documentation#Type-of-Air-Drops-Supported)
 - [Features Supported](https://github.com/LucasRodriguez/Axiom-Documentation#Features-Supported)
 - [How It Works](https://github.com/LucasRodriguez/Axiom-Documentation#How-It-Works)
-- [Progress](https://github.com/LucasRodriguez/Axiom-Documentation#Versions-&-Features)
+- [Progress](https://github.com/LucasRodriguez/Axiom-Documentation#Progress)
   - [Smart contract tracking saving and distribution](https://github.com/LucasRodriguez/Axiom-Documentation#Smart-contract-tracking-saving-and-distribution)
-  - [Social media tracking](https://github.com/LucasRodriguez/Axiom-Documentation#Social-media-track)
+  - [Social media tracking](https://github.com/LucasRodriguez/Axiom-Documentation#Social-media-tracking)
   - [Referrals](https://github.com/LucasRodriguez/Axiom-Documentation#Referrals)
   - [Social Media Influencer Program](https://github.com/LucasRodriguez/Axiom-Documentation#Social-Media-Influencer-Program)
-  - [Ranks & Hierarchy](https://github.com/LucasRodriguez/Axiom-Documentation#Ranks-&-Hierarchy)
+  - [Ranks & Hierarchy](https://github.com/LucasRodriguez/Axiom-Documentation#Ranks-and-Hierarchy)
   - [Token Economics](https://github.com/LucasRodriguez/Axiom-Documentation#Token-Economics)
   - [Network Support](https://github.com/LucasRodriguez/Axiom-Documentation#Network-Support)
-- [Versions & Features](https://github.com/LucasRodriguez/Axiom-Documentation#Versions-&-Features)
+- [Versions & Features](https://github.com/LucasRodriguez/Axiom-Documentation#Versions-and-Features)
 
 
 ### Type of Air Drops Supported
@@ -43,6 +43,7 @@ Only features active in the platform, or in active development planning, are lis
    - [ ] GoChain
    - [ ] Tron
    - [ ] IOTA
+   - [ ] EOS
 9. [ ] Partners
    - [ ] PlayKey Token
    - [ ] ReceiptChain Token
@@ -55,7 +56,7 @@ Once the tokens are in the smart contract, and the airdrop campaign ends, the sm
 ### Progress
 #### Smart contract tracking saving and distribution
 Purpose: to track, limit, and enable, distribution of airdrops.
-The smart contract will require airdrops to be created on chain and require to know the `Amount`, `Name`, `Smart Contract` & `Expiry date', access to a centralised database with all the appropriate receiving addresses, and the amount they are owed for completing the social media tasks, coupled with `kue`. Anyone can deploy an airdrop and ensure distribution within the Ethereum network. The distribution is only limited by the Ethereum network whereby the airdrop awaits distribution untill a certain block is reached.
+The smart contract will require airdrops to be created on chain and require to know the `Amount`, `Name`, `Smart Contract` & `Expiry date`, access to a centralised database with all the appropriate receiving addresses, and the amount they are owed for completing the social media tasks, coupled with `kue`. Anyone can deploy an airdrop and ensure distribution within the Ethereum network. The distribution is only limited by the Ethereum network whereby the airdrop awaits distribution untill a certain block is reached.
 
 #### Social media tracking
 Axioms is connected to a centralised database which routinely calls the Discord, Telegram, and Twitter API. These API calls determine which users have completed which tasks.  
@@ -70,7 +71,7 @@ Social Media Influencer Program development has not yet started.
 Partner Referral Program development has not yet started.
 
 
-#### Ranks & Hierarchy
+#### Ranks and Hierarchy
 Ranks & hierarchy development has not yet started.
 
 #### Token Economics
@@ -86,7 +87,7 @@ There is no set date for the distribution of Axioms(AXM) tokens.
 ##### Ethereum
 Ethereum is currently the only fully supported chain.
 
-### Versions & Features
+### Versions and Features
 >#### v. 1.0.0 - First working version of the platform
 >##### Platform Side
 >- Basic Social Media Tracking based on a routine 5 minute server update
