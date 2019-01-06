@@ -45,8 +45,8 @@ Only features active in the platform, or in active development planning, are lis
    - [ ] IOTA
    - [ ] EOS
 9. [ ] Partners
-   - [ ] PlayKey Token
-   - [ ] ReceiptChain Token
+   - [x] PlayKey Token
+   - [x] ReceiptChain Token
 
 ### How It Works
 #### ERC20
