@@ -19,6 +19,7 @@ To use The script firstly you should be using your choice of Linux. This script 
  - [node](https://nodejs.org/en/download/package-manager/)
  - [minimist](https://www.npmjs.com/package/minimist)
 
+#### Instructions:
  1. Downlod the script
  2. Download the csv into the same folder as the script
  3. Open the Linux Terminal
