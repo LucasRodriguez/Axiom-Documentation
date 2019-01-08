@@ -20,7 +20,7 @@ Only features active in the platform, or in active development planning, are lis
 - [Versions & Features](https://github.com/LucasRodriguez/Axiom-Documentation#Versions-and-Features)
 
 
-### Type of Air Drops Supported
+### Type of Airdrops Supported
 1. [x] ERC20 Smart Contracts
 2. [x] Non-Collateralised - Unique Chain
 3. [ ] Collateralised - Unique Chain
@@ -45,8 +45,8 @@ Only features active in the platform, or in active development planning, are lis
    - [ ] IOTA
    - [ ] EOS
 9. [ ] Partners
-   - [ ] PlayKey Token
-   - [ ] ReceiptChain Token
+   - [x] PlayKey Token
+   - [x] ReceiptChain Token
 
 ### How It Works
 #### ERC20
@@ -78,7 +78,7 @@ Ranks & hierarchy development has not yet started.
 Token Economics are dependent on a number of factors, such as funding opportunities for the development and obligatory needs of Axioms.
 
 ##### Use
-Axioms will have use-cases that range from **Collateral**, **Governance**, to a **Utility** when Axioms becomes the way to pay for the Airdrops in the platform.
+Axioms will have use-cases that range from **Collateral**, **Governance**, to a **Utility** when Axioms becomes the way to pay for the airdrops in the platform.
 
 ##### Distribution
 There is no set date for the distribution of Axioms(AXM) tokens.
@@ -97,7 +97,7 @@ Ethereum is currently the only fully supported chain.
 >  - Discord
 >  - Telegram
 >##### Admin Side
->- Creation of basic ERC20 Airdrop
+>- Creation of basic ERC20 airdrop
 >  - No decimal support
 >  - 12 input fields
 >  - Smart Contract for custody
@@ -111,5 +111,5 @@ Ethereum is currently the only fully supported chain.
 >   - Discord
 >- Web3 Integration
 >- Step by Step Tutorial
->- Air Drop Card Preview
->- Real Time Tracking of Air Drop progress
+>- Airdrop Card Preview
+>- Real Time Tracking of airdrop progress
