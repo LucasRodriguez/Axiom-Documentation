@@ -17,7 +17,7 @@ Only features active in the platform, or in active development planning, are lis
   - [Ranks & Hierarchy](https://github.com/LucasRodriguez/Axiom-Documentation#Ranks-and-Hierarchy)
   - [Token Economics](https://github.com/LucasRodriguez/Axiom-Documentation#Token-Economics)
   - [Network Support](https://github.com/LucasRodriguez/Axiom-Documentation#Network-Support)
-- [Versions & Features](https://github.com/LucasRodriguez/Axiom-Documentation#Versions-and-Features)
+- [Versions & Features](https://github.com/LucasRodriguez/Axiom-Documentation/Versions/VersionFeatures.md)
 
 
 ### Type of Airdrops Supported
@@ -86,30 +86,3 @@ There is no set date for the distribution of Axioms(AXM) tokens.
 #### Network Support
 ##### Ethereum
 Ethereum is currently the only fully supported chain.
-
-### Versions and Features
->#### v. 1.0.0 - First working version of the platform
->##### Platform Side
->- Basic Social Media Tracking based on a routine 5 minute server update
->- Referrals for each airdrop uniquely
->- Account connection to Social Media
->  - Twitter
->  - Discord
->  - Telegram
->##### Admin Side
->- Creation of basic ERC20 airdrop
->  - No decimal support
->  - 12 input fields
->  - Smart Contract for custody
->  - Manual distribution through smart contract function for batching
->- Support for Social media
->   - Twitter
->     - Like
->     - Retweet
->     - Follow
->   - Telegram
->   - Discord
->- Web3 Integration
->- Step by Step Tutorial
->- Airdrop Card Preview
->- Real Time Tracking of airdrop progress
