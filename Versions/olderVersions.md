@@ -1,5 +1,4 @@
 # Versions and Features
-# Versions and Features
 >## v. 1.0.0 - First working version of the platform
 >### Platform Side
 >- Basic Social Media Tracking based on a routine 5 minute server update
